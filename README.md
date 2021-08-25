@@ -23,9 +23,9 @@ opencv-python
 <p>The app consists of two blocks of code if im not mistaken.</p>
 
 ````
-1. This is the desktop version of the application - Run the block and you will be good. 
+1. This is the desktop version of the application - Run the block and you will be good - Press Q to quit. 
 
-2. This is the Flask Version (Web Version) which will run in your broswer.
+2. This is the Flask Version (Web Version) which will run in your broswer -Run the block and you will be good. 
 ````
 
 
