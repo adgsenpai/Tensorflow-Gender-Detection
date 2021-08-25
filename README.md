@@ -8,7 +8,14 @@
 1. You will need the following libaries that will be in requirements.txt
 (or add a block to install your requirements like this for example)
 ````
-!pip install tensorflow
+!pip install -r requirements.txt
+````
+
+2. If you want GPU version of TensorFlow and other libaries.
+````
+tensorflow
+cvlib
+opencv-python
 ````
 
 #### Usage
@@ -33,5 +40,3 @@
 ##### Hope you have fun with this notebook and project :-)
 
 ### Copyright ADGSTUDIOS 2021
-
-
