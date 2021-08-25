@@ -14,8 +14,10 @@
 #### Usage
 ##### Open up app.ipynb 
 <p>The app consists of two blocks of code if im not mistaken.</p>
+````
 1. This is the desktop version of the application - Run the block and you will be good. 
 2. This is the Flask Version (Web Version) which will run in your broswer.
+````
 
 ##### Hope you have fun with this notebook and project :-)
 
