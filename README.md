@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
 
 #### Motivation
-<p>People in this world cannot tell who is Male or Female. Biology has failed and Ben Shapiro has failed. <br> As a meme i decided to make a Tensorflow-Gender-Detection System to detect genders in a given image source. This could be used in RSTP, Video Files and Web-Cam video sources.</p>
+<p>People in this world cannot tell who is Male or Female. Biology has failed and Ben Shapiro has failed. <br> As a meme i decided to make a Tensorflow-Gender-Detection System to detect genders in a given image media/stream source. This could be used in RSTP, Video Files and Web-Cam video sources.</p>
 
 #### Prerequisites 
 1. You will need the following libaries that will be in requirements.txt
