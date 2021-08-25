@@ -19,7 +19,7 @@
 
 ##### Hope you have fun with this notebook and project :-)
 
-|-------------|--------------|
+------------------------------
 | Date        | Changes      |
 |-------------|--------------|
 | 2021/08/25  | First Commit |
