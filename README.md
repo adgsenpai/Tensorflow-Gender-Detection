@@ -5,13 +5,13 @@
 <p>People in this world cannot tell who is Male or Female. Biology has failed and Ben Shapiro has failed. <br> As a meme i decided to make a Tensorflow-Gender-Detection System to detect genders in a given image media/stream source. This could be used in RSTP, Video Files and Web-Cam video sources.</p>
 
 #### Prerequisites 
-1. You will need the following libaries that will be in requirements.txt
-(or add a block to install your requirements like this for example)
+1. You will need the following libaries that will be in requirements.txt (lightweight packages - useful packages for Heroku)
+(or add a block to install your requirements like this for example) 
 ````
 !pip install -r requirements.txt
 ````
 
-2. If you want GPU version of TensorFlow and other libaries.
+2. If you want GPU version of TensorFlow and other libaries. (expensive packages)
 ````
 tensorflow
 cvlib
